@@ -23,7 +23,7 @@ int main()
         }
         cout<<endl;
 
-        if(Sum>=2)
+        if(Sum>=2 && Sum<=3 )
         {
             count++;
         }
